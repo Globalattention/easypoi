@@ -8,5 +8,6 @@ public class entrence {
     public static void main(String[] args) {
         SpringApplication.run(entrence.class, args);
        System.out.println("sasdfgd");
+        System.out.println("sssssssss");
     }
 }
