@@ -9,5 +9,6 @@ public class entrence {
         SpringApplication.run(entrence.class, args);
        System.out.println("sasdfgd");
         System.out.println("sssssssss");
+        System.out.println("ddff");
     }
 }
