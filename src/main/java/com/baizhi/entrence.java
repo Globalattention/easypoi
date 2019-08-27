@@ -10,5 +10,6 @@ public class entrence {
        System.out.println("sasdfgd");
         System.out.println("sssssssss");
         System.out.println("ddff");
+        System.out.println("ssdfvgb");
     }
 }
