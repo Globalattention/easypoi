@@ -8,6 +8,7 @@ public class TestPOI {
         Animal animal = new Animal();
         animal.setId("1");
         animal.setName("可爱的猫咪");
+        System.out.println(animal);
 
     }
 }
