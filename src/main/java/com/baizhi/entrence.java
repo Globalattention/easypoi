@@ -11,5 +11,6 @@ public class entrence {
         System.out.println("sssssssss");
         System.out.println("ddff");
         System.out.println("ssdfvgb");
+        System.out.println("sfrhdkyfdgks  gcbgnfckbsfbhv");
     }
 }
